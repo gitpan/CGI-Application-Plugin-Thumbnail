@@ -1,0 +1,8 @@
+lib/CGI/Application/Plugin/Thumbnail.pm
+t/0.t
+t/1.t
+MANIFEST
+Makefile.PL
+t/ayn_rand.jpg
+
+META.yml                                 Module meta-data (added by MakeMaker)
