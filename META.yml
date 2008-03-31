@@ -1,15 +1,14 @@
 # http://module-build.sourceforge.net/META-spec.html
 #XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
 name:         CGI-Application-Plugin-Thumbnail
-version:      1.02
+version:      1.03
 version_from: lib/CGI/Application/Plugin/Thumbnail.pm
 installdirs:  site
 requires:
     CGI::Application::Plugin::Stream: 0
     File::Path:                    0
     File::PathInfo:                0
-    Image::Magick:                 0
-    Image::Magick::Thumbnail:      0
+    Image::Thumbnail:              0.63
     LEOCHARRE::DEBUG:              1.02
 
 distribution_type: module

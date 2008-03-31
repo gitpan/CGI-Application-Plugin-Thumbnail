@@ -4,5 +4,5 @@ t/1.t
 MANIFEST
 Makefile.PL
 t/ayn_rand.jpg
-
+t/PTest.pm
 META.yml                                 Module meta-data (added by MakeMaker)
